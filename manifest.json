@@ -1,0 +1,8 @@
+{
+  "name": "Cine Festival",
+  "short_name": "Cine",
+  "start_url": "/frontend/index.html",
+  "display": "standalone",
+  "background_color": "#111",
+  "theme_color": "#111"
+}
